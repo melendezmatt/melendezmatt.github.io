@@ -1970,13 +1970,13 @@ input, select, textarea {
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
+			.icon.circle.fa-linkedin {
+				background: #0077b5;
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-linkedin:hover {
+					background: #008bd6;
 				}
 
 		.icon.featured {
